@@ -26,11 +26,14 @@ html {
   box-sizing: border-box;
 }
 
-*, *:before, *:after {
+*,
+*:before,
+*:after {
   box-sizing: inherit;
 }
 
 body {
+  margin: 0;
   font-size: 1.6rem;
   font-family: var(--font-outfit);
   background-color: var(--color-slate-300);
@@ -54,13 +57,14 @@ main {
   padding: var(--spacing-200);
   padding-bottom: var(--spacing-500);
   box-shadow: 0 2.5rem 2.5rem 0 rgba(0, 0, 0, 4.77%);
-  max-width: 32rem;
+  width: min(32rem, 100%);
   margin: 0;
   gap: var(--spacing-300);
 }
 
 .card-qr__code {
-  width: 28.8rem;
+  max-width: 100%;
+  height: auto;
   border-radius: 1rem;
 }
 

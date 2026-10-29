@@ -45,15 +45,15 @@ I learned how to use a professional tool such as Figma to parse a design to code
 
 This project also helped me to prove my knowldege of semantic HTML and CSS, speacially with Flexbox. This is especially important to me, because helps me to feel confident with my skills beyond the tutorials and courses. Finally I can say that I built something by my own.
 
+An specific challenge that I solved was the box-sizing issue that makes the elements grows when you add padding, but with a little research I've found how to solve it.
+
 ### Continued development
 
 I want to continue improving my CSS skills, especially responsive design, and he use of reusable CSS custom properties.
 
-**Note: Delete this note and the content within this section and replace with your own plans for continued development.**
-
 ### Useful resources
 
-- [Paul Irish *{Box-sizing: Border-box} FTW](https://www.paulirish.com/2012/box-sizing-border-box-ftw/) - This site helpeed me by providing the code to apply a natural box layout to my elements.
+- [Paul Irish \*{Box-sizing: Border-box} FTW](https://www.paulirish.com/2012/box-sizing-border-box-ftw/) - This site helpeed me by providing the code to apply a natural box layout to my elements.
 
 ### AI Collaboration
 
